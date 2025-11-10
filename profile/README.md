@@ -151,6 +151,12 @@ Reach out to the Product Owner or any team member listed above via email.
 
 ---
 
+## Workshops
+
+- [Workshop 2 — Design artifacts and system modeling](Workshop-2/README.md)
+
+---
+
 ## Appendix: University / Course info
 
 Universidad Nacional de Colombia  
